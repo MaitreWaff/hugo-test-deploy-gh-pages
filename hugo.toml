@@ -1,4 +1,7 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://maitrewaff.github.io'
 locale = 'en-us'
 title = 'My Project'
 theme = 'ananke'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
